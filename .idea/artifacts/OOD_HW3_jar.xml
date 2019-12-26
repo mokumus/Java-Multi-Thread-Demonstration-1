@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OOD-HW3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OOD_HW3_jar</output-path>
+    <root id="archive" name="OOD-HW3.jar">
+      <element id="module-output" name="OOD-HW3" />
+    </root>
+  </artifact>
+</component>
