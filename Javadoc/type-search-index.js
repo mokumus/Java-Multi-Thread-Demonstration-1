@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.muhammedokumus","l":"BestDSEver"},{"p":"com.muhammedokumus","l":"Consumer"},{"p":"com.muhammedokumus","l":"Producer"},{"p":"com.muhammedokumus","l":"TextAreaOutputStream"},{"p":"com.muhammedokumus","l":"ThreadSafeBestDSEver"}]
